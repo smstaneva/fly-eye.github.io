@@ -12,9 +12,9 @@
 
 
 ### Volume Visualization
-<div id="contentframe" style="position:relative; top: 300px; left:50px;">
+<div class="iframe_container">
 <iframe src="https://valentina-s.github.io/WebGLVolumeRendering/Index_eye.html" height="600" width="800"> </iframe></div>
-
+<div class="iframe_container">
 
 ## Welcome to GitHub Pages
 
