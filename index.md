@@ -14,7 +14,7 @@
 
 ### Volume Visualization
 
-<div id="contentframe" style="position:relative; top: 300px; left:50px;">
+<div id="contentframe" style="position:relative; top: 300px; left:50px; bottom:100px">
 <iframe src="https://valentina-s.github.io/WebGLVolumeRendering/Index_eye.html" height="600" width="800" allowfullscreen="allowfullscreen"> </iframe> </div>
 
 
