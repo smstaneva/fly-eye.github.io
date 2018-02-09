@@ -1,5 +1,5 @@
 
-<link href="assets/css/style.scss" rel="stylesheet">
+<link href="assets/css/cayman.scss" rel="stylesheet">
 
 ## Welcome to Cornea Project Website.
 
