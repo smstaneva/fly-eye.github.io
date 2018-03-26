@@ -59,7 +59,6 @@
 		position: relative; 
 		top: 20px; 
 		left: 50px; 
-		bottom: 100px;
 	}
 </style>
 
