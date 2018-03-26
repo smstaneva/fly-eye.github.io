@@ -29,7 +29,7 @@
 	}
 </style>
 
-<h3> Volume Visualization </h3>
+
 
 <div id="contentframeindex"></div>
 
@@ -53,10 +53,18 @@
 </script>
 
 <style> 
+	.volume{
+	position: relative;
+	top:20px;
+	left:50px;}
+
 	#contentframe{ 
 		position: relative; 
 	}
-</style>
+	
+</style> 
+
+<h3 class="volume";> Volume Visualization </h3>
 
 <div id="contentframe"></div>
 
