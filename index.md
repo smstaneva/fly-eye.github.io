@@ -64,7 +64,7 @@
 	
 </style> 
 
-<h3 id="volume";> Volume Visualization </h3>
+<h3 id="volume"> Volume Visualization </h3>
 
 <div id="contentframe"></div>
 
