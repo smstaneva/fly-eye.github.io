@@ -1,4 +1,3 @@
-
 <link href="assets/css/style.scss" rel="stylesheet">
 
 ## Welcome to Cornea Project Website.
@@ -14,7 +13,6 @@
 		i.width = "800px";
 		i.height = "600px";
 		allowfullscreen="allowfullscreen";
-		frameborder="0";
 		document.getElementById('contentframeindex').appendChild(i);
 	};
 	
@@ -22,14 +20,18 @@
 		window.addEventListener("load", createIframe, false);
 		else if (window.attachEvent)
 		window.attachEvent("onload", createIframe);
-		else window.onload = createIframe;
+		else window.onload = createIframe;		
 </script>
 
-<div id="contentframeindex" style="position:relative; top: 160px; left:50px;">
-<iframe src="https://valentina-s.github.io/volumeJS/index.html" allowfullscreen="allowfullscreen"> </iframe>
-</div>
+<style> 
+	#contentframeindex{
+	position: relative; 
+	top: 160px; 
+	left: 50px;
+	}
+</style>
 
-
+<div id="contentframeindex"></div>
 
 ### Volume Visualization
 
@@ -42,7 +44,6 @@
 		i.width = "800px";
 		i.height = "600px";
 		allowfullscreen="allowfullscreen";
-		frameborder="0";
 		document.getElementById('contentframe').appendChild(i);
 	};
 	
@@ -53,8 +54,16 @@
 		else window.onload = createIframe;
 </script>
 
-<div id="contentframe" style="position:relative; top: 500px; left:50px; bottom:100px">
-</div>
+<style> 
+	#contentframe{ 
+		position: relative; 
+		top: 500px; 
+		left: 50px; 
+		bottom: 100px;
+	}
+</style>
+
+<div id="contentframe"></div>
 
 <br/>
 
