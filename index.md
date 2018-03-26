@@ -1,8 +1,8 @@
 <link href="assets/css/style.scss" rel="stylesheet">
 
-## Welcome to Cornea Project Website.
+<h2> Welcome to Cornea Project Website.</h2>
 
-### Slice Visualization
+<h3>Slice Visualization</h3>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script> 
@@ -26,14 +26,14 @@
 <style> 
 	#contentframeindex{
 	position: relative; 
-	top: 160px; 
+	top: 20px; 
 	left: 50px;
 	}
 </style>
 
-<div id="contentframeindex"></div>
+<h3> Volume Visualization </h3>
 
-### Volume Visualization
+<div id="contentframeindex"></div>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script> 
@@ -57,7 +57,7 @@
 <style> 
 	#contentframe{ 
 		position: relative; 
-		top: 500px; 
+		top: 20px; 
 		left: 50px; 
 		bottom: 100px;
 	}
