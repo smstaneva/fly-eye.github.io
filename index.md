@@ -26,8 +26,6 @@
 <style> 
 	#contentframeindex{
 	position: relative; 
-	top: 20px; 
-	left: 50px;
 	}
 </style>
 
@@ -57,8 +55,6 @@
 <style> 
 	#contentframe{ 
 		position: relative; 
-		top: 20px; 
-		left: 50px; 
 	}
 </style>
 
