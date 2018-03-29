@@ -29,8 +29,6 @@
 	}
 </style>
 
-
-
 <div id="contentframeindex"></div>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
@@ -52,21 +50,8 @@
 		else window.onload = createIframe;
 </script>
 
-<style> 
-	#volume{
-	position: relative;
-	top:200px;
-	left:50px;}
-
-	#contentframe{ 
-		position: relative; 
-	}
-	
-</style> 
-
-<h3 id="volume"> Volume Visualization </h3>
+<h3> Volume Visualization </h3>
 
 <div id="contentframe"></div>
 
 <br/>
-
